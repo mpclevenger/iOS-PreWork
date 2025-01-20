@@ -3,7 +3,7 @@ This application changes the background color of the app whenever the button is 
 <br>
 <br>
 
-How It's Made: <br>
+**How It's Made:**<br>
 Tech Used: Swift<br>
 <br>
 Following the instructions in the CodePath pre-work module I connected the UI to the logic and coded functionality to randomly generate RGB colors. 
